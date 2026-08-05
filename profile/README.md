@@ -11,3 +11,13 @@ This organization maintains software, infrastructure, interfaces, clients, servi
 - Keep cross-repository dependencies explicit and pinned where reproducibility matters.
 
 Organization-wide contribution and security guidance lives in this `.github` repository.
+
+<!-- org-project-routing:start -->
+## Planning and delivery
+
+- [GitHub Project: rust-ssr-demos-project](https://github.com/orgs/rust-ssr-demos/projects/1)
+- [Linear planning project](https://linear.app/denman/project/githubcomrust-ssr-demos-4aff6fcef4d4)
+- [Detailed project-routing contract](../docs/PROJECTS.md)
+
+GitHub owns code and delivery evidence; Linear owns planning and dependencies. The linked organization Project provides the cross-repository execution view.
+<!-- org-project-routing:end -->
