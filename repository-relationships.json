@@ -1,10 +1,56 @@
 {
+  "$schema": "./repository-relationships.schema.json",
+  "audience": "public",
+  "generated": {
+    "complete_for_visibility": "public",
+    "generated_at": "2026-08-05T21:07:32Z",
+    "generator_version": "2026-08-04.1",
+    "inventory_digest": "sha256:b50525b04342c190db49dbabdc19a2c6c5d7ae27fc1067d4f0d69c79983c4c67",
+    "managed_by": "ore-repository-relationship-rollout",
+    "omitted_repository_count": 7,
+    "private_repositories_omitted": true,
+    "source": "GitHub GraphQL repository inventory plus reviewed manual declarations"
+  },
+  "owner": {
+    "account_type": "organization",
+    "dotgithub_repository": "rust-ssr-demos/.github",
+    "github_id": "309136194",
+    "linear_project": {
+      "id": "31e60fc2-db6b-4c14-841a-762745c4555c",
+      "name": "github.com/rust-ssr-demos",
+      "team_id": "eb8ab169-5afe-4b6f-9cab-3f2aa3e887dc",
+      "url": "https://linear.app/denman/project/githubcomrust-ssr-demos-4aff6fcef4d4",
+      "workspace": "denman"
+    },
+    "login": "rust-ssr-demos",
+    "mapping_id": "context:rust-ssr-demos"
+  },
+  "private_registry": {
+    "contains_non_public_inventory": true,
+    "digest": "sha256:99c08698be5ca9940735ade18a118097c8db2293bd813527c958d13bbccd77a8",
+    "path": "owners/rust-ssr-demos.json",
+    "repository": "ORESoftware/project-registry"
+  },
+  "relationships": [],
+  "repositories": [
+    {
+      "archived": false,
+      "default_branch": "main",
+      "fork": false,
+      "full_name": "rust-ssr-demos/.github",
+      "github_id": "1324048073",
+      "name": ".github",
+      "owner": "rust-ssr-demos",
+      "roles": [
+        "community-health",
+        "governance",
+        "relationship-registry"
+      ],
+      "source": "github-graphql-api",
+      "url": "https://github.com/rust-ssr-demos/.github",
+      "visibility": "public"
+    }
+  ],
   "schema_version": 1,
-  "organization": "rust-ssr-demos",
-  "generated_at": null,
-  "repositories": [],
-  "notes": [
-    "Populate from live GitHub inventory; do not infer unverified dependencies.",
-    "Repository-local manifests remain authoritative for exact dependency versions."
-  ]
+  "unresolved_hints": []
 }
