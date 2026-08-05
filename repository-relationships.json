@@ -29,7 +29,7 @@
     "contains_non_public_inventory": true,
     "digest": "sha256:99c08698be5ca9940735ade18a118097c8db2293bd813527c958d13bbccd77a8",
     "path": "owners/rust-ssr-demos.json",
-    "repository": "ORESoftware/project-registry"
+    "repository": "approved-private-registry"
   },
   "relationships": [],
   "repositories": [
