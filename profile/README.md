@@ -21,3 +21,11 @@ Organization-wide contribution and security guidance lives in this `.github` rep
 
 GitHub owns code and delivery evidence; Linear owns planning and dependencies. The linked organization Project provides the cross-repository execution view.
 <!-- org-project-routing:end -->
+
+<!-- ore-org-baseline:begin -->
+This GitHub account maintains software, infrastructure, research, and supporting documentation under the [`rust-ssr-demos`](https://github.com/rust-ssr-demos) GitHub owner.
+
+Planning and delivery context is tracked in [github.com/rust-ssr-demos](https://linear.app/denman/project/githubcomrust-ssr-demos-4aff6fcef4d4). Public contribution, security, and governance defaults are maintained in [`.github`](https://github.com/rust-ssr-demos/.github).
+
+Repository descriptions and repository-local documentation remain authoritative for each project. Do not infer production readiness, support commitments, or security guarantees from this profile alone.
+<!-- ore-org-baseline:end -->
